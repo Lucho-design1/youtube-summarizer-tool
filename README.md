@@ -1,2 +1,5 @@
 # youtube-summarizer-tool
-Herramienta web interactiva para transcripción y resumen automático de videos de YouTube con pasarela de pago PayPal integrada.
+
+Este proyecto está en pausa y no ofrece ningún producto ni servicio a la venta.
+
+Herramienta gratuita disponible: [Calculadora de Comisiones LatAm](https://lucho-design1.github.io/fee-calculator-latam/)
